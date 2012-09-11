@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict>
+  <dict>
     <key>BBEditDocumentType</key>
     <string>CodelessLanguageModule</string>
     <key>BBLMLanguageCode</key>
@@ -106,6 +106,16 @@
       <string>\</string>
       <key>End-of-line Ends Strings 1</key>
       <true/>
+      <key>Prefix for Functions</key>
+      <string>def</string>
+      <key>Open Parameter Lists</key>
+      <string>(</string>
+      <key>Close Parameter Lists</key>
+      <string>)</string>
+      <key>Open Statement Blocks</key>
+      <string>{</string>
+      <key>Close Statement Blocks</key>
+      <string>}</string>            
     </dict>
-</dict>
+  </dict>
 </plist>
