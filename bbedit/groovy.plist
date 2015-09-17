@@ -121,5 +121,7 @@
 		<key>Close Statement Blocks</key>
 		<string>}</string>
 	</dict>
+	<key>BBLMCommentLineDefault</key>
+	<string>//</string>
 </dict>
 </plist>
