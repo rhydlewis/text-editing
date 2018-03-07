@@ -14,6 +14,10 @@
 			<key>BBLMLanguageSuffix</key>
 			<string>.groovy</string>
 		</dict>
+	</array>	
+	<key>BBLMFileNamesToMatch</key>
+	<array>
+		<string>Jenkinsfile</string>
 	</array>
 	<key>BBLMColorsSyntax</key>
 	<true/>
